@@ -1,0 +1,4 @@
+﻿  lab1.cpp
+C:\Users\maxim\source\repos\lab1\lab1\lab1.cpp(36,15): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+C:\Users\maxim\source\repos\lab1\lab1\lab1.cpp(33,9): warning C4101: n: неиспользованная локальная переменная
+  lab1.vcxproj -> C:\Users\maxim\source\repos\lab1\Debug\lab1.exe

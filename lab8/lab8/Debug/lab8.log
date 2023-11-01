@@ -1,0 +1,5 @@
+﻿  lab8.cpp
+C:\Users\maxim\source\repos\lab8\lab8\lab8.cpp(106,15): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+C:\Users\maxim\source\repos\lab8\lab8\lab8.cpp(193,27): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\maxim\source\repos\lab8\lab8\lab8.cpp(218,39): warning C4018: <: несоответствие типов со знаком и без знака
+  lab8.vcxproj -> C:\Users\maxim\source\repos\lab8\Debug\lab8.exe

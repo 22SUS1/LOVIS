@@ -1,0 +1,4 @@
+﻿  lab9.cpp
+C:\Users\maxim\source\repos\lab9\lab9\lab9.cpp(22,23): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\maxim\source\repos\lab9\lab9\lab9.cpp(74,15): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  lab9.vcxproj -> C:\Users\maxim\source\repos\lab9\Debug\lab9.exe

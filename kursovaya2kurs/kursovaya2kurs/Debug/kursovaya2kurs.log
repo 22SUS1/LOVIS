@@ -1,0 +1,4 @@
+﻿  kursovaya2kurs.cpp
+C:\Users\maxim\source\repos\kursovaya2kurs\kursovaya2kurs\kursovaya2kurs.cpp(60,10): warning C4101: b: неиспользованная локальная переменная
+C:\Users\maxim\source\repos\kursovaya2kurs\kursovaya2kurs\kursovaya2kurs.cpp(246,15): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  kursovaya2kurs.vcxproj -> C:\Users\maxim\source\repos\kursovaya2kurs\Debug\kursovaya2kurs.exe
